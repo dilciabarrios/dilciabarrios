@@ -21,10 +21,10 @@
 
 ### 🌟 Sobre mí
 
-👩‍💻 Ingeniera en Sistemas | Análisis de Datos 🚀  
-🖥️ Me encanta el area de Mela tecnologia 
-📘 Me mantengo estudiando y practicando 💻 lenguaje SQL y Python
-✨ Me gusta mantenerme constantemente en el aprendizaje de nuevas herramientas
+👩‍💻  Ingeniera en Sistemas | Análisis de Datos 🚀  
+🖥️  Me encanta el area de Mela tecnologia 
+📘  Me mantengo estudiando y practicando 💻 lenguaje SQL y Python
+✨  Me gusta mantenerme constantemente en el aprendizaje de nuevas herramientas
 
 🌍 Conéctate conmigo  
 📧 Email: dilciabarrios@gmail.com
