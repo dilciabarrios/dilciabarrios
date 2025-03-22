@@ -21,8 +21,10 @@
 
 ### 🌟 Sobre mí
 
-👩‍💻 Ingeniera en Sistemas | Análisis de Datos | Optimización de Procesos 🚀  
-📊 Apasionada por la automatización y la mejora operativa.  
-📍 He trabajado en logística y planificación operativa en múltiples estados.  
-🎯 Me gusta analizar datos para impulsar la eficiencia empresarial.  
-🤝 Tengo experiencia en liderazgo y trabajo en equipo. 
+👩‍💻 Ingeniera en Sistemas | Análisis de Datos 🚀  
+🖥️ Me encanta el area de Mela tecnologia 
+📘 Me mantengo estudiando y practicando 💻 lenguaje SQL y Python
+✨ Me gusta mantenerme constantemente en el aprendizaje de nuevas herramientas
+
+🌍 Conéctate conmigo  
+📧 Email: dilciabarrios@gmail.com
