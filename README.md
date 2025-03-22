@@ -23,14 +23,15 @@
 
 👩‍💻&nbsp;Ingeniera en Sistemas | Data Analyst 🚀  
 🖥️&nbsp;Me encanta el área de la tecnología  
-📘&nbsp;Me mantengo estudiando y practicando 💻&nbsp;lenguaje SQL y Python  
+📚 &nbsp;Me mantengo estudiando y practicando 💻&nbsp;lenguaje SQL y Python  
 ✨&nbsp;Me gusta mantenerme constantemente en el aprendizaje de nuevas herramientas
 
 🌍 Contacta conmigo  
 📧 Email: dilciabarrios@gmail.com
 
 <hr> <!-- Línea divisoria horizontal -->
-:hammer_and_wrench: Lenguajes y herramientas :
+
+### 🛠️ Lenguajes y herramientas 
 
 <div id="header" align="left">
     <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
