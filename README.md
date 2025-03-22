@@ -10,4 +10,6 @@
   </a>
 </div>
 
-[![Contador de visitas](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dilciabarrios&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitas&edge_flat=false)](https://github.com/dilciabarrios)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dilciabarrios&label=Visitas&color=blue&style=flat" alt="contador de visitas" />
+</p>
