@@ -21,7 +21,7 @@
 
 ### 🌟 Sobre mí
 
-👩‍💻&nbsp;Ingeniera en Sistemas | Análisis de Datos 🚀  
+👩‍💻&nbsp;Ingeniera en Sistemas | Data Analyst 🚀  
 🖥️&nbsp;Me encanta el área de la tecnología  
 📘&nbsp;Me mantengo estudiando y practicando 💻&nbsp;lenguaje SQL y Python  
 ✨&nbsp;Me gusta mantenerme constantemente en el aprendizaje de nuevas herramientas
@@ -39,5 +39,5 @@
     <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
 </div>
 
-
+### 📌 Mis Estadísticas
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noelianav91&theme=dark&background=000000)](https://git.io/streak-stats)
