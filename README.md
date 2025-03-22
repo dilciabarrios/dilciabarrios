@@ -23,7 +23,7 @@
 
 👩‍💻&nbsp;Ingeniera en Sistemas | Data Analyst 🚀  
 🖥️&nbsp;Me encanta el área de la tecnología  
-📚 &nbsp;Me mantengo estudiando y practicando 💻&nbsp;lenguaje SQL y Python  
+📚&nbsp;Sigo estudiando y practicando 💻&nbsp;lenguaje SQL y Python  
 ✨&nbsp;Me gusta mantenerme constantemente en el aprendizaje de nuevas herramientas
 
 🌍 Contacta conmigo  
