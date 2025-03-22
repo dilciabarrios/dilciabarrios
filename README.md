@@ -25,6 +25,9 @@
 🖥️&nbsp;Me encanta el área de la tecnología  
 📚&nbsp;Sigo estudiando y practicando 💻&nbsp;lenguaje SQL y Python  
 ✨&nbsp;Me gusta mantenerme constantemente en el aprendizaje de nuevas herramientas
+
+<hr> <!-- Línea divisoria horizontal -->
+
 📌&nbsp;En el repositorio de nombrado "Data-Analysis-Bootcamp", encontrarás todos mis proyectos realizados en el bootcamp de tripleten
  
 🌍 Contacta conmigo  
