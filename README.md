@@ -44,5 +44,16 @@
     <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
 </div>
 
-### 📌 Mis Estadísticas
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noelianav91&theme=dark&background=000000)](https://git.io/streak-stats)
+### 📊 GitHub Estadísticas  
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dilciabarrios&theme=dark&background=000000" alt="GitHub Streak Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dilciabarrios&show_icons=true&theme=dark" alt="GitHub Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilciabarrios&layout=compact&theme=dark" alt="Top Languages"/>
+</div>
