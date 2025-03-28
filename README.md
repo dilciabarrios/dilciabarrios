@@ -46,14 +46,10 @@
 
 ### 📊 GitHub Estadísticas  
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dilciabarrios&theme=dark&background=000000" alt="GitHub Streak Stats"/>
-</div>
-
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dilciabarrios&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilciabarrios&layout=compact&theme=dark" alt="Top Languages"/>
 </div>
